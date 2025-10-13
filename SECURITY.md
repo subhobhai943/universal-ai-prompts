@@ -56,7 +56,7 @@ If you discover a security vulnerability or have concerns about prompt safety, p
 #### 1. 📧 Contact Information
 
 **Primary Contact:**
-- **Email**: [security@your-domain.com] (replace with actual contact)
+- **Email**: [sarkarsubhadip604@gmail.com]
 - **Subject**: `[SECURITY] Universal AI Prompts - [Brief Description]`
 - **Response Time**: Within 48 hours
 
